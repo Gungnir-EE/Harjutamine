@@ -1,1 +1,3 @@
 GitHub pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara. Seda kasutavad pealmiselt programmeerijad 
+Edaspidi saan kasutada GitHub'i kas tunnitöö jaoks või kodus
+Platvormi GitHub.com arendus algas 19. oktoobril 2007. Selle saidi käivitasid 2008. aasta aprillis Tom Preston-Werner, Chris Wanstrath, PJ Hyett ja Scott Chacon pärast seda, kui see oli paar kuud enne beetaversiooni kättesaadavaks tehtud .
