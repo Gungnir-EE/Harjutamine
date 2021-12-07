@@ -1,1 +1,2 @@
 GitHub pakub veebimajutusteenust tarkvaraarenduseks, kasutades Giti tarkvara. Seda kasutavad pealmiselt programmeerijad 
+Edaspidi saan kasutada GitHub'i kas tunnitöö jaoks või kodus
